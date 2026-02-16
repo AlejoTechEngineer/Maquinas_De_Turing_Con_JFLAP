@@ -41,15 +41,18 @@ El proyecto demuestra dos tipos fundamentales de Máquinas de Turing:
 **Estados**: `q0`, `q1`, `q2`, `q3`, `qa`, `qr`
 
 #### Cadenas de Prueba
-<div align="center">
-| ✅ Aceptadas | ❌ Rechazadas |
-|-------------|---------------|
-| `01` | `ε` (vacía) |
-| `0011` | `1` |
-| `000111` | `001` |
-| `00001111` | `0111` |
-| `0000011111` | `0101` |
 
+   <div align="center">
+
+   | ✅ Aceptadas | ❌ Rechazadas |
+   |:-------------:|:---------------:|
+   | `01` | `ε` (vacía) |
+   | `0011` | `1` |
+   | `000111` | `001` |
+   | `00001111` | `0111` |
+   | `0000011111` | `0101` |
+
+   </div>
 ---
 
 ### Ejercicio 2: Calculadora del Sucesor Binario
