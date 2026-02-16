@@ -28,7 +28,7 @@ El proyecto demuestra dos tipos fundamentales de Máquinas de Turing:
 
 ## 🎯 Ejercicios Implementados
 
-### Ejercicio 1: Reconocedor del Lenguaje L = {0ⁿ1ⁿ : n > 0}
+### Ejercicio 1: Reconocedor del Lenguaje L = {0ⁿn 1ⁿ: n > 0}
 
 **Objetivo**: Diseñar una Máquina de Turing que reconozca cadenas con igual cantidad de ceros y unos.
 
