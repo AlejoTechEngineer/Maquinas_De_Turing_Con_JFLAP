@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🤖
-# Máquinas de Turing con JFLAP
+# 🤖 Máquinas de Turing con JFLAP
 
 <div align="center">
 
