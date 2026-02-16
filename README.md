@@ -82,14 +82,13 @@ El proyecto demuestra dos tipos fundamentales de Máquinas de Turing:
 ```
 Maquinas_De_Turing_Con_JFLAP/
 ├── 📄 README.md
-├── 📄 Desarrollo_Proyecto_Alejandro_De_Mendoza.pdf
+├── 🔒 .gitignore
+├── 📘 Desarrollo_Proyecto_Alejandro_De_Mendoza.pdf
 ├── 🤖 Maquinas_de_Turing_con_JFLAP_Ejercicio_1.jff
 ├── 🤖 Maquinas_de_Turing_con_JFLAP_Ejercicio_2.jff
-└── 📂 imagenes/
-    ├── ejercicio1_diagrama.png
-    ├── ejercicio1_ejecucion.png
-    ├── ejercicio2_diagrama.png
-    └── ejercicio2_ejecucion.png
+└── 📂 files/
+    ├── COMANDOS_GIT.ps1
+    └── COMANDOS_RAPIDOS.ps1
 ```
 
 ---
@@ -113,7 +112,7 @@ Maquinas_De_Turing_Con_JFLAP/
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/Maquinas_De_Turing_Con_JFLAP.git
+   git clone https://github.com/AlejoTechEngineer/Maquinas_De_Turing_Con_JFLAP.git
    cd Maquinas_De_Turing_Con_JFLAP
    ```
 
@@ -189,9 +188,7 @@ Todas las máquinas fueron validadas usando:
 Estudiante de Ingeniería Informática  
 Fundación Universitaria Internacional de La Rioja
 
-📧 Contacto: [tu-email@example.com]  
-🔗 LinkedIn: [Tu perfil]  
-🌐 Portfolio: [Tu sitio web]
+🔗 GitHub: [@AlejoTechEngineer](https://github.com/AlejoTechEngineer)
 
 ---
 
