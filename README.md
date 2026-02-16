@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Academic](https://img.shields.io/badge/Project-Academic-orange?style=for-the-badge)
 
-**Laboratorio de Teoría de la Computación**  
+**Laboratorio de Informática Teórica**  
 *Fundación Universitaria Internacional de La Rioja*
 
 [📚 Ver Documentación](#-documentación) • [🎯 Ejercicios](#-ejercicios-implementados) • [🚀 Uso](#-cómo-usar) • [👨‍💻 Autor](#-autor)
@@ -184,18 +184,10 @@ Todas las máquinas fueron validadas usando:
 ## 👨‍💻 Autor
 
 **Alejandro De Mendoza**  
-Estudiante de Ingeniería Informática  
+Ingeniería Informática  
 Fundación Universitaria Internacional de La Rioja
 
 🔗 GitHub: [@AlejoTechEngineer](https://github.com/AlejoTechEngineer)
-
----
-
-## 👨‍🏫 Profesor
-
-**Ing. Rogerio Orlando Beltrán Castro**  
-Informática Teórica  
-Sexto Semestre - 2026
 
 ---
 
