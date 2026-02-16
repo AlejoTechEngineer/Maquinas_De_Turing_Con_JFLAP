@@ -28,7 +28,7 @@ El proyecto demuestra dos tipos fundamentales de Máquinas de Turing:
 
 ## 🎯 Ejercicios Implementados
 
-### Ejercicio 1: Reconocedor del Lenguaje L = {0ⁿ n 1ⁿ : n > 0}
+### Ejercicio 1: Reconocedor del Lenguaje L = {0ⁿ1ⁿ : n > 0}
 
 **Objetivo**: Diseñar una Máquina de Turing que reconozca cadenas con igual cantidad de ceros y unos.
 
@@ -44,13 +44,13 @@ El proyecto demuestra dos tipos fundamentales de Máquinas de Turing:
 
 <div align="center">
    
-   | ✅ Aceptadas | ❌ Rechazadas |
-   |-------------|---------------|
-   | `01` | `ε` (vacía) |
-   | `0011` | `1` |
-   | `000111` | `001` |
-   | `00001111` | `0111` |
-   | `0000011111` | `0101` |
+| ✅ Aceptadas | ❌ Rechazadas |
+|:-------------:|:---------------:|
+| `01` | `ε` (vacía) |
+| `0011` | `1` |
+| `000111` | `001` |
+| `00001111` | `0111` |
+| `0000011111` | `0101` |
 
 </div>
 
@@ -70,18 +70,21 @@ El proyecto demuestra dos tipos fundamentales de Máquinas de Turing:
 
 #### Ejemplos de Funcionamiento
 
+<div align="center">
+
 | Entrada | Salida |
-|---------|--------|
+|:-------:|:------:|
 | `0` | `1` |
 | `1` | `10` |
 | `10` | `11` |
 | `111` | `1000` |
 | `1011` | `1100` |
 
+</div>
+
 ---
 
 ## 📁 Estructura del Repositorio
-
 ```
 Maquinas_De_Turing_Con_JFLAP/
 ├── 📄 README.md
@@ -114,15 +117,15 @@ Maquinas_De_Turing_Con_JFLAP/
 ### Ejecución
 
 1. **Clonar el repositorio**
-   ```bash
+```bash
    git clone https://github.com/AlejoTechEngineer/Maquinas_De_Turing_Con_JFLAP.git
    cd Maquinas_De_Turing_Con_JFLAP
-   ```
+```
 
 2. **Abrir JFLAP**
-   ```bash
+```bash
    java -jar JFLAP.jar
-   ```
+```
 
 3. **Cargar un ejercicio**
    - File → Open → Seleccionar `.jff` deseado
@@ -152,12 +155,16 @@ El documento completo del laboratorio incluye:
 
 ### Máquinas Reconocedoras vs Computadoras
 
+<div align="center">
+
 | Característica | Reconocedoras | Computadoras |
-|----------------|---------------|--------------|
+|:---------------|:---------------|:--------------|
 | **Propósito** | Decidir membresía en un lenguaje | Ejecutar cálculos |
 | **Salida** | Acepta/Rechaza | Resultado computado |
 | **Ejemplo** | L = {0ⁿ1ⁿ} | Sucesor binario |
 | **Uso** | Verificación formal | Operaciones aritméticas |
+
+</div>
 
 ---
 
