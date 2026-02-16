@@ -1,0 +1,59 @@
+# ============================================
+# .gitignore para Proyecto JFLAP
+# ============================================
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+~$*
+*.lnk
+
+# Archivos de sistema
+.DS_Store
+*.tmp
+*.temp
+*.log
+
+# Archivos de backup
+*.bak
+*~
+*.swp
+*.swo
+
+# Carpetas de IDE
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Archivos de Java compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de Office temporales
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Carpetas de dependencias
+node_modules/
+bower_components/
+
+# Archivos de configuración local
+.env
+.env.local
+config.local.js
+
+# Carpetas de build
+build/
+dist/
+target/
+
+# Archivos de respaldo automático
+*~lock.*
+*.autosave
