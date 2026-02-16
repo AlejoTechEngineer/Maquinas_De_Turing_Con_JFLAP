@@ -53,6 +53,7 @@ El proyecto demuestra dos tipos fundamentales de Máquinas de Turing:
    | `0000011111` | `0101` |
 
 </div>
+
 ---
 
 ### Ejercicio 2: Calculadora del Sucesor Binario
