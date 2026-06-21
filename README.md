@@ -241,3 +241,17 @@ Este proyecto es material académico desarrollado para fines educativos.
 Made with ❤️ and ☕ by Alejandro De Mendoza
 
 </div>
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[JFLAP 7.1 - Simulador] --> B[Ejercicio_1.jff - Reconocedor L igual 0n1n]
+    A --> C[Ejercicio_2.jff - Calculadora Sucesor Binario]
+    B --> D[Estados: q0 q1 q2 q3 qa qr - Marcado X/Y]
+    D --> E{Cadena Valida?}
+    E -->|01 - 0011 - 000111| F[qa: Acepta]
+    E -->|001 - 0111 - 0101| G[qr: Rechaza]
+    C --> H[Estados: q0 q1 qa - Acarreo Binario]
+    H --> I[Entrada n -> Salida n+1]
+    A --> J[PDF Informe - Desarrollo_Proyecto.pdf]
+```
